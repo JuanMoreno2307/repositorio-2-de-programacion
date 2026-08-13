@@ -11,7 +11,7 @@ Volumenenlitros= Anchoxaltoxprofundo/1000
 Mostrar "caben "Volumenenlitros"litros de agua en el acuario"
 fin 
 
-![Diagrama de flujo](./imagenesrepo2/ddfacuario.Jpeg)
+![Diagrama de flujo](./imagenesrepo2/ddfacuario.JPG)
 
 ## *EJERCICIO LAPICES*
 Realice un algoritmo para determinar cuánto se debe pagar por equis cantidad de lápices
@@ -28,7 +28,7 @@ precio = cantidadlapices* 90
 mostrar ""Precio"$"
 Fin
 
-![Diagrama de flujo](./imagenesrepo2/ddflapices.jpeg)
+![Diagrama de flujo](./imagenesrepo2/ddflapices.JPG)
 
 ## *EJERCICIO TIENDA DE ROPA*
 Un almacén de ropa tiene una promoción: por compras superiores a $250 000
@@ -48,7 +48,7 @@ D=8%
 Mostrar "el precio a pagar es de "p"$ y el descuento aplicado fue de D"
 Fin
 
-![Diagrama de flujo](./imagenesrepo2/ddfropa.jpeg)
+![Diagrama de flujo](./imagenesrepo2/ddfropa.JPG)
 
 
 El director de una escuela está organizando un viaje de estudios,
