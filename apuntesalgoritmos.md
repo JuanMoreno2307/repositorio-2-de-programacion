@@ -53,6 +53,6 @@ deben tener Presicion, Determinismo y Finitud
 
     Esto permite visualizar de manera clara y secuencial el flujo de ejecución 
     del algoritmo, facilitando la comprensión y detección de errores.
-
+![TABLA DIAGRAMAS DE FLUJO](./imagenesrepo2/diagramadeflujo.webp)
 
 
