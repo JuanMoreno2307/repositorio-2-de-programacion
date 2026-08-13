@@ -1,0 +1,9 @@
+Inicio
+Entrada ID, sal1, sal2, sal3, sal4, sal5, sal6
+intose, prme
+
+intose= sal1+sal2+sal3+sal4+sal5+sal6
+prme= intose/6
+
+mostrar id tiene un ingreso total semestral de intose y un promedio semestral de prme
+Fin
