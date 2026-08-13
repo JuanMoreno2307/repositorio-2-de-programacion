@@ -1,2 +1,2 @@
-![tabla1](./imagenesrepo2/diagramadeflujo)
+![tabla1](./imagenesrepo2/diagramadeflujo.webp)
 
