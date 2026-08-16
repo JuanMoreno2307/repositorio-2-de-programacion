@@ -19,6 +19,6 @@ durante un trayecto de 2 minutos. Si el valor medido supera un umbral, indicar
 que se ha detectado turbulencia en ese instante. Al final, mostrar cuántas 
 turbulencias se detectaron.
 
-![Diagrama de flujo de turbulencia](./ímagenesrepo2/ddftur.JPG)
+![Diagrama de flujo de turbulencia](./imagenesrepo2/ddftur.JPG)
 
 
